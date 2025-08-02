@@ -5,10 +5,6 @@ const nextConfig: NextConfig = {
   images: {
     domains: ["images.unsplash.com"],
   },
-
-  maxWidth: {
-        '1800': '1800px',
-      },
 };
 
 export default nextConfig;
